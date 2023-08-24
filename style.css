@@ -1,0 +1,28 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+/* .heading {
+	padding: 0px 13%;
+} */
+#mainJoke {
+	padding: 3%;
+	margin: 30vh 20vw;
+	border: 1px solid #241f31;
+	border-radius: 5px;
+}
+/* main{
+	height:100%;
+	width:100%;
+} */
+/* html {
+	position: absolute;
+} */
+.jokeBtn {
+	padding: 3px 5px;
+	margin: 0px 30%;
+	background-color: #1c71d8;
+	border-radius: 10%;
+	width: 20%;
+	height:fit-content
+}
